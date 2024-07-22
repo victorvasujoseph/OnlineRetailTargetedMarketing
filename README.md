@@ -58,7 +58,7 @@ The main steps in the code are:
 
 1. **Load the Dataset:**
     ```python
-    data = pd.read_excel('Online Retail.xlsx')
+    data = pd.read_excel('OnlineRetail.xlsx')
     ```
 
 2. **Data Preprocessing:**
@@ -133,6 +133,8 @@ The main steps in the code are:
     plt.tight_layout()
     plt.show()
     ```
+
+<img src="images/1.png" alt="My Image" width="700"/>
 
 ## Conclusion
 
