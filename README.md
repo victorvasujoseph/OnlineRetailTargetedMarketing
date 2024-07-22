@@ -134,6 +134,8 @@ The main steps in the code are:
     plt.show()
     ```
 
+<img src="images/1.png" alt="My Image" width="700"/>
+
 ## Conclusion
 
 **Best Parameters:**
